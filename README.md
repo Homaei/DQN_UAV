@@ -40,10 +40,10 @@ The following figure illustrates the results of the Digital Twin Driven DQN mode
 If you find this code or research helpful, please cite our paper using the following BibTeX format:
 
 ```bibtex
-@article{emami2024aidriven,
+@article{emami2026aidriven,
   title={On the Use of AI-Driven Immersive Digital Technologies for Designing and Operating UAVs},
   author={Emami, Yousef and Homaei, Mohammadhossein and Gait{\'a}n, Miguel Guti{\'e}rrez and Li, Kai and Zou, Sai},
   journal={IEEE Transactions},
-  year={2024}
+  year={2026}
 }
 ```
