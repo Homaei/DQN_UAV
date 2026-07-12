@@ -29,11 +29,11 @@ The codebase includes two primary case studies discussed in the paper:
 If you find this code useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{emami2024immersive,
+@article{emami2026immersive,
   title={On the Use of AI-Driven Immersive Digital Technologies for Designing and Operating UAVs},
   author={Emami, Yousef and Homaei, Mohammadhossein and Gait{\'a}n, Miguel Guti{\'e}rrez and Li, Kai and Zou, Sai},
   journal={IEEE},
-  year={2024}
+  year={2026}
 }
 ```
 *(Note: Please update the citation with the exact journal, volume, and page numbers once published.)*
