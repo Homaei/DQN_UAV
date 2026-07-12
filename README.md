@@ -14,8 +14,16 @@ The codebase includes two primary case studies discussed in the paper:
 
 ## Files in this Repository
 - `DQN.py`: The complete Python implementation containing both Case Study I and Case Study II. It includes the physical UAV stubs, Digital Twin engine, Kalman filters, RLS calibrator, anomaly detector, and the DRL (DQN) agent. The code is heavily commented with simple human-readable English instructions.
-- `Result1.png`: Training convergence and policy deployment results for Case Study I.
-- `Result2.png`: Performance comparisons and distributions for Case Study II.
+
+## Case Study Results
+
+### Case Study I: DT-Driven DRL for UAV Resource Allocation
+![Result I](Result1.png)
+*Training convergence and policy deployment results for Case Study I.*
+
+### Case Study II: Online RLS Calibration Performance
+![Result II](Result2.png)
+*Performance comparisons and distributions for Case Study II.*
 
 ## Citation
 If you find this code useful in your research, please consider citing our paper:
